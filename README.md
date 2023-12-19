@@ -27,7 +27,7 @@ There are several datasets we provide:
 2. Contact Angle Images-20231122 the initial image of the droplet on the surface
 3. Measured: Images analysed by imageJ.
 
-#Workflow
+# Workflow
 There is a jupyter notebook files called Zisman plot codes.ipynb.
 The workflow is the following:
 1. We start by loading the data, choose y as the circle method contact angle and ellipse method contact angle.
